@@ -1,5 +1,5 @@
 # metaPDF
-metaPDF analyzes PDF files in the current directory and extracts their metadata using the pdfx library.
+metaPDF analyzes PDF files in the current directory and extracts their metadata using the pdfx library, a great OSINT tool.
 
 ## How the script works?
 
